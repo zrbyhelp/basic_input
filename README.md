@@ -14,4 +14,5 @@ ZInput基本输入框
 [cursorColor] 光标颜色  
 [style] 基本样式  
 
-
+zInputDecorationNone({String? hintText,EdgeInsets? padding})  
+无样式装饰器
