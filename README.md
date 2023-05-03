@@ -1,39 +1,17 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+flutter基础输入封装
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+ZInput基本输入框
+[zInputType] 输入框类型
+[validation] 附加输入验证验,验证优先级高于默认zInputType内默认验证
+[inputDecoration] 输入框修饰
+[textInputAction] 键盘弹出确认按钮样式
+[focusNode] 焦点
+[onFieldSubmitted] 点击键盘确认按钮
+[onSaved] 表单保存事件处理
+[initialValue] 初始化文本
+[enabled] 是否有效
+[controller] 控制器
+[cursorColor] 光标颜色
+[style] 基本样式
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
